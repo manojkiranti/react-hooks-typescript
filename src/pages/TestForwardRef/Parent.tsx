@@ -1,0 +1,6 @@
+
+const Parent = () => {
+    return (
+        <>Parent</>
+    )
+}
